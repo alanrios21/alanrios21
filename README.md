@@ -4,7 +4,7 @@
 
 # Sobre mi
 
-Estudiante de Famaf en la carrera de Licenciatura en Ciencias de la computación, tengo 24 años, me interesa mucho el Desarrollo Web y más que nada el Desarrollo Front-End, hace poco comencé en este enorme mundo y espero poder seguir creciendo tanto laboralmente como personalmente.
+Soy una persona con muchas ganas de aprender y esforzarme día a día, autodidacta con buena actitud y adaptable a los cambios. Hago desarrollo Frontend, capacitandome para seguir mejorando. Estudio desde hace 5 meses haciendo cursos en Udemy y realizando tanto proyectos personales como en equipo lo cual he adquirido experiencia personal. Tambien estoy desarrollando habilidades blandas para mi crecimiento y mi carrera profesional.
 
 # Habilidades duras
 
