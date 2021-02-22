@@ -1,10 +1,10 @@
 # Alan Rios
 
-### Desarrollador Front-End en Proceso
+### Desarrollador Front-End 
 
 # Sobre mi
 
-Soy una persona con muchas ganas de aprender y esforzarme día a día, autodidacta con buena actitud y adaptable a los cambios. Hago desarrollo Frontend, capacitandome para seguir mejorando. Estudio desde hace 5 meses haciendo cursos en Udemy y realizando tanto proyectos personales como en equipo lo cual he adquirido experiencia personal. Tambien estoy desarrollando habilidades blandas para mi crecimiento y mi carrera profesional.
+Soy una persona autodidacta, con buena actitud, que le gustaría pertenecer a una empresa para poder crecer mediante el aprendizaje continuo y el trabajo en equipo. Elegí estudiar desarrollo web desde hace 5 meses porque me interesa la parte visual de las aplicaciones y páginas web, por lo cual puedo decir, que es lo que más me apasiona hacer.
 
 # Habilidades duras
 
