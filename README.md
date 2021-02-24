@@ -1,10 +1,12 @@
 # Alan Rios
 
-### Desarrollador Front-End 
+### Desarrollador Frontend 
 
 # Sobre mi
 
-Soy una persona autodidacta, con buena actitud, que le gustaría pertenecer a una empresa para poder crecer mediante el aprendizaje continuo y el trabajo en equipo. Elegí estudiar desarrollo web desde hace 5 meses porque me interesa la parte visual de las aplicaciones y páginas web, por lo cual puedo decir, que es lo que más me apasiona hacer.
+Soy una persona autodidacta, con buena actitud, que le gustaría pertenecer a una empresa para poder crecer mediante el aprendizaje continuo y el trabajo en equipo.
+
+Elegí estudiar desarrollo web porque me interesa la parte visual de las aplicaciones y páginas web, por lo cual puedo decir, que es lo que más me apasiona hacer.
 
 # Habilidades duras
 
