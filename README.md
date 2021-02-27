@@ -5,9 +5,7 @@
 <h1 align='center'>Sobre mi</h1> 
 
 <p align='justify'>
-Soy una persona autodidacta, con buena actitud, que le gustaría pertenecer a una empresa para poder crecer mediante el aprendizaje continuo y el trabajo en equipo.
-
-Elegí estudiar desarrollo web porque me interesa la parte visual, por lo cual puedo decir, que es lo que más me apasiona hacer.
+Soy un apasionado por las tecnologías web, día a día me esfuerzo para alcanzar mis logros, mejorar mis capacidades, y obtener nuevos conocimientos.
 
 </p>
 
