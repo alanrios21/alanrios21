@@ -19,3 +19,6 @@ Soy un apasionado por las tecnologías web, día a día me esfuerzo para alcanza
 <img src='https://user-images.githubusercontent.com/58795417/105617060-ec9dd900-5dba-11eb-9291-8736c38efe91.png'>
 
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrios21)](https://github.com/anuraghazra/github-readme-stats)
