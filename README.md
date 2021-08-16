@@ -21,7 +21,12 @@ Soy un apasionado por las tecnologías web, día a día me esfuerzo para alcanza
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrios21&show_icons=true&theme=dark)
-](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/alanrios21"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alanrios21&show_icons=true&theme=onedark">
+  <a href="https://github.com/alanrios21"><img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrios21&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=onedark">
+  <a href="https://github.com/alanrios21"><img width="800" src="https://github-profile-trophy.vercel.app/?username=alanrios21&row=1&column=5&theme=onedark">
+    </p>
+
+
 
 
