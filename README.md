@@ -20,7 +20,8 @@ Soy un apasionado por las tecnologías web, día a día me esfuerzo para alcanza
 
 </p>
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alanrios21&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+<p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=alanrios21&theme=onedark" alt="germantorales" /></p>
 <p align="center">
   <a href="https://github.com/alanrios21"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alanrios21&show_icons=true&theme=onedark">
   <a href="https://github.com/alanrios21"><img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrios21&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=onedark">
