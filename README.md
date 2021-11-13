@@ -13,11 +13,24 @@ Soy un apasionado por las tecnologías web, día a día me esfuerzo para alcanza
 
 <p align='center'>
 
-<img src='https://user-images.githubusercontent.com/58795417/97876393-8bee8b00-1cfa-11eb-8764-8285125190b8.png'>
-<img src='https://user-images.githubusercontent.com/58795417/97877054-6ca42d80-1cfb-11eb-9adb-d80a5edd9591.png'>
-<img src='https://user-images.githubusercontent.com/58795417/97877352-d02e5b00-1cfb-11eb-99b1-bf7528e0fd89.png'>
-<img src='https://user-images.githubusercontent.com/58795417/105617060-ec9dd900-5dba-11eb-9291-8736c38efe91.png'>
+<img width='125' src='https://user-images.githubusercontent.com/58795417/141646571-cd2ba738-13a4-434a-9c71-bfc124c88341.png'>
+<img width='125' src='https://user-images.githubusercontent.com/58795417/141646800-8c1ce45c-5c04-4142-91a1-59c627dcc337.png'>
+<img width='140' src='https://user-images.githubusercontent.com/58795417/141649330-75102755-a224-44ca-8608-f0b446597d2c.png'>
+<img width='110' src='https://user-images.githubusercontent.com/58795417/141649413-553595c9-f392-4477-9ef8-2a15eff9d42a.png'>
 
+
+
+<img src='https://user-images.githubusercontent.com/58795417/141643969-5dfaa9f3-d139-445d-a850-7b84c2c67e7c.png' width='140px'>
+<img width='120' src='https://user-images.githubusercontent.com/58795417/141645991-eddc3ab7-e67b-4b0d-987f-2ee650945085.png'>
+<img width="130" src='https://user-images.githubusercontent.com/58795417/141645809-876c3631-5cd4-4c37-b4ed-16e8b727d879.png'>
+<img width='200' src='https://user-images.githubusercontent.com/58795417/141646217-caea98ee-c542-49fd-83ef-4d18297510e2.png'>
+<img width='100' src='https://user-images.githubusercontent.com/58795417/141646384-847d5966-9445-4c89-aba8-d03bb411ed3e.png'>
+
+
+
+
+ 
+  
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alanrios21&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
