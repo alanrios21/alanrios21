@@ -1,6 +1,6 @@
 <h1 align='center'>Alan Rios</h1> 
 
-<h3 align='center'> Desarrollador Frontend </h3>
+<h3 align='center'> Desarrollador Trainee/Junior </h3>
 
 <h1 align='center'>Sobre mi</h1> 
 
