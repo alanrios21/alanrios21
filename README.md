@@ -25,6 +25,7 @@ Soy un apasionado por las tecnologías web, día a día me esfuerzo para alcanza
 <img width='130' src='https://user-images.githubusercontent.com/58795417/142412845-e1465e82-c744-403a-b72b-04185bd02d67.png'>
 <img width='130' src='https://user-images.githubusercontent.com/58795417/142414044-2d9e53f9-1393-478d-b264-f4555947ad2c.png'>
 <img width='130' src='https://user-images.githubusercontent.com/58795417/142414687-0a1c72fe-62be-4c0a-96b8-0e399bbed28b.png'>
+<img width='120' src="https://user-images.githubusercontent.com/58795417/146099466-1bdf3823-aeb2-4155-89f6-1a775c506ff1.png">
 
 
 
