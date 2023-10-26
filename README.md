@@ -5,8 +5,7 @@
 <h1 align='center'>Sobre mi</h1> 
 
 <p align='justify'>
-Soy un apasionado por las tecnologías web, día a día me esfuerzo para alcanzar mis logros, mejorar mis capacidades, y adquirir nuevos conocimientos.
-
+Cada día me esfuerzo para alcanzar mis logros, mejorar mis capacidades y obtener nuevos conocimientos. Me gustaría formar parte de un equipo IT y desarrollarme profesionalmente en una empresa.
 </p>
 
 <h1 align='center'>Habilidades duras</h1>
