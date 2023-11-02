@@ -21,12 +21,6 @@ Cada día me esfuerzo para alcanzar mis logros, mejorar mis capacidades y obtene
 <img width='100' src='https://user-images.githubusercontent.com/58795417/141646384-847d5966-9445-4c89-aba8-d03bb411ed3e.png'>
 <img width='120' src="https://user-images.githubusercontent.com/58795417/146099466-1bdf3823-aeb2-4155-89f6-1a775c506ff1.png">
 
-
-
-
-
- 
-  
 </p>
 
 <p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=alanrios21&theme=onedark" alt="germantorales" /></p>
@@ -35,7 +29,3 @@ Cada día me esfuerzo para alcanzar mis logros, mejorar mis capacidades y obtene
   <a href="https://github.com/alanrios21"><img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrios21&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=onedark">
   <a href="https://github.com/alanrios21"><img width="800" src="https://github-profile-trophy.vercel.app/?username=alanrios21&row=1&column=5&theme=onedark">
     </p>
-
-
-
-
