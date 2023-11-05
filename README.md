@@ -20,6 +20,7 @@
 <img width='120' src='https://user-images.githubusercontent.com/58795417/141645991-eddc3ab7-e67b-4b0d-987f-2ee650945085.png'>
 <img width='100' src='https://user-images.githubusercontent.com/58795417/141646384-847d5966-9445-4c89-aba8-d03bb411ed3e.png'>
 <img width='120' src="https://user-images.githubusercontent.com/58795417/146099466-1bdf3823-aeb2-4155-89f6-1a775c506ff1.png">
+<img width='120' src="https://github.com/alanrios21/alanrios21/assets/58795417/d479456b-d5b4-4a97-85e2-874d517c838c.png">
 
 </p>
 
