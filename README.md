@@ -5,7 +5,21 @@
 <h1 align='center'>Sobre mi</h1> 
 
 <p align='justify'>
-¡Hola mi nombre es Alan! soy Desarrollador Web Frontend, cada día me esfuerzo para alcanzar mis logros, mejorar mis capacidades y obtener nuevos conocimientos. Me gustaría formar parte de un equipo IT y desarrollarme profesionalmente en una empresa.
+¡Hola mi nombre es Alan! soy Desarrollador Web Frontend, me destaco desde hace +1 año, en las tecnologías: HTML, CSS, JavaScript, TypeScript, Boostrap, Git, Metodologías Agiles, Scrum, Jira y +6 meses en React.
+
+Soy un profesional que ha incorporado habilidades como: Enfoque colaborativo, Disciplina y comprometido constantemente con mi aprendizaje.
+
+Actualmente estoy trabajando en un proyecto que es mi portfolio personal donde utilizo las siguiente tecnologías: HTML, CSS, Javascript y React.
+
+🎯Mi objetivo es generar proyectos visualmente atractivos, que sean funcionales y que sean eficientes para el usuario.
+
+💬Mi mantra es la tecnología tiene que ser hecha desde lo funcional y la vanguardia.
+
+Mi aporte en el Área de IT es: Crear proyectos que sean enfocados en las necesidades de cada usuario. Si deseas encontrar algún colaborador que sea versátil y comprometido no dudes en contactarme: 
+
+📧riosalan264@gmail.com 
+
+Estoy emocionado por contribuir a cualquier proyecto en el área de Front-End, juntos podemos crear soluciones innovadoras.
 </p>
 
 <h1 align='center'>Habilidades duras</h1>
