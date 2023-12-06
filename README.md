@@ -16,8 +16,8 @@
 <img width='125' src='https://user-images.githubusercontent.com/58795417/141646800-8c1ce45c-5c04-4142-91a1-59c627dcc337.png'>
 <img width='140' src='https://user-images.githubusercontent.com/58795417/141649330-75102755-a224-44ca-8608-f0b446597d2c.png'>
 <img width='110' src='https://user-images.githubusercontent.com/58795417/141649413-553595c9-f392-4477-9ef8-2a15eff9d42a.png'>
-<img src='https://user-images.githubusercontent.com/58795417/141643969-5dfaa9f3-d139-445d-a850-7b84c2c67e7c.png' width='140px'>
-<img width='120' src='https://user-images.githubusercontent.com/58795417/141645991-eddc3ab7-e67b-4b0d-987f-2ee650945085.png'>
+
+
 <img width='100' src='https://user-images.githubusercontent.com/58795417/141646384-847d5966-9445-4c89-aba8-d03bb411ed3e.png'>
 <img width='120' src="https://user-images.githubusercontent.com/58795417/146099466-1bdf3823-aeb2-4155-89f6-1a775c506ff1.png">
 <img width='120' src="https://github.com/alanrios21/alanrios21/assets/58795417/d479456b-d5b4-4a97-85e2-874d517c838c.png">
