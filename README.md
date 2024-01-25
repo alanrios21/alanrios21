@@ -7,7 +7,7 @@
 <p align='justify'>
 ¡Hola mi nombre es Alan! soy Desarrollador Web Frontend, me destaco desde hace +1 año, en las tecnologías: HTML, CSS, JavaScript, TypeScript, Boostrap, Git, Metodologías Agiles, Scrum, Jira y +6 meses en React.
 
-Soy un profesional que ha incorporado habilidades como: Enfoque colaborativo, Disciplina y comprometido constantemente con mi aprendizaje.
+Soy un profesional Empatico que ha incorporado habilidades como: Enfoque colaborativo, Disciplina y comprometido constantemente con mi aprendizaje.
 
 Actualmente estoy trabajando en un proyecto que es mi portfolio personal donde utilizo las siguiente tecnologías: HTML, CSS, Javascript y React.
 
