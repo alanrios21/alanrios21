@@ -32,7 +32,10 @@ Estoy emocionado por contribuir a cualquier proyecto en el área de Front-End, j
 
 <p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=alanrios21&theme=onedark" alt="germantorales" /></p>
 <p align="center">
-  <a href="https://github.com/alanrios21"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alanrios21&show_icons=true&theme=onedark">
-  <a href="https://github.com/alanrios21"><img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrios21&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=onedark">
-  <a href="https://github.com/alanrios21"><img width="800" src="https://github-profile-trophy.vercel.app/?username=alanrios21&row=1&column=5&theme=onedark">
-    </p>
+ 
+  
+ <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=alanrios21&row=4&theme=onedark&no-frame=true" />
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=alanrios21&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
+
+
