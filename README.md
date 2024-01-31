@@ -22,7 +22,7 @@ Mi aporte en el Área de IT es: Crear proyectos que sean enfocados en las necesi
 Estoy emocionado por contribuir a cualquier proyecto en el área de Front-End, juntos podemos crear soluciones innovadoras.
 </p>
 
-<h1 align='center'>Habilidades duras</h1>
+<h1 align='center'>Habilidades tecnicas</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
