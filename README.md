@@ -35,7 +35,7 @@ Estoy emocionado por contribuir a cualquier proyecto en el área de Front-End, j
  
   
  <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=alanrios21&row=4&theme=onedark&no-frame=true" />
+<img width="100%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=alanrios21&row=4&theme=onedark&no-frame=true" />
 <div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=alanrios21&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
 
 
