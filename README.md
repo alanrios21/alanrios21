@@ -24,7 +24,7 @@ Estoy emocionado por contribuir a cualquier proyecto, juntos podemos crear soluc
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,angular,js,express,vite,mongodb,npm,nodejs,nestjs,sass,visualstudio,net,redux,cs,linux,materialui,postman,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,angular,webpack,js,express,vite,mongodb,npm,nodejs,nestjs,sass,visualstudio,net,redux,cs,linux,materialui,postman,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
