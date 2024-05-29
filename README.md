@@ -5,11 +5,9 @@
 <h1 align='center'>Sobre mi</h1> 
 
 <p align='justify'>
-¡Hola mi nombre es Alan! soy Desarrollador Web Frontend, me destaco desde hace +1 año, en las tecnologías: HTML, CSS, JavaScript, TypeScript, Boostrap, Git, Metodologías Agiles, Scrum, Jira y +6 meses en React.
+¡Hola mi nombre es Alan! soy Desarrollador Full Stack, me destaco en las tecnologías: HTML, CSS, JavaScript, TypeScript, Angular, React, Redux, Node, .NET, .Net Core,  Boostrap, Git, SQL, Ionic, MongoDb, Express, Nest, Metodologías Agiles, Scrum, Jira.
 
-Soy un profesional Empatico que ha incorporado habilidades como: Liderazgo, Enfoque colaborativo, Disciplina y comprometido constantemente con mi aprendizaje.
-
-Actualmente estoy trabajando en un proyecto que es mi portfolio personal donde utilizo las siguiente tecnologías: HTML, CSS, Javascript y React.
+Soy un profesional empático, creativo que ha incorporado habilidades como: Enfoque colaborativo, Liderazgo, Disciplina y comprometido constantemente con mi aprendizaje.
 
 🎯Mi objetivo es generar proyectos visualmente atractivos, que sean funcionales y que sean eficientes para el usuario.
 
@@ -19,7 +17,7 @@ Mi aporte en el Área de IT es: Crear proyectos que sean enfocados en las necesi
 
 📧riosalan264@gmail.com 
 
-Estoy emocionado por contribuir a cualquier proyecto en el área de Front-End, juntos podemos crear soluciones innovadoras.
+Estoy emocionado por contribuir a cualquier proyecto, juntos podemos crear soluciones innovadoras.
 </p>
 
 <h1 align='center'>Habilidades tecnicas</h1>
