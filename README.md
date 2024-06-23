@@ -5,7 +5,7 @@
 <h1 align='center'>Sobre mi</h1> 
 
 <p align='justify'>
-¡Hola mi nombre es Alan! soy Desarrollador Full Stack Engineer, me destaco en las tecnologías: HTML, CSS, JavaScript, TypeScript, Angular, React, Redux, Node, .NET, .Net Core,  Boostrap, Git, SQL, Ionic, MongoDb, Express, Nest, Metodologías Agiles, Scrum, Jira.
+¡Hola mi nombre es Alan! soy Desarrollador Full Stack Engineer, me destaco en las tecnologías: HTML, CSS, JavaScript, TypeScript, Angular, Java, React, Redux, Node, .NET, .Net Core,  Boostrap, Git, SQL, Ionic, MongoDb, Express, Nest, Metodologías Agiles, Scrum, Jira.
 
 Soy un profesional empático, creativo que ha incorporado habilidades como: Enfoque colaborativo, Liderazgo, Disciplina y comprometido constantemente con mi aprendizaje.
 
