@@ -1,6 +1,6 @@
 <h1 align='center'>Alan Rios</h1> 
 
-<h3 align='center'> Desarrollador Full Stack Engineer </h3>
+<h3 align='center'> Desarrollador de Software </h3>
 
 <h1 align='center'>Sobre mi</h1> 
 
