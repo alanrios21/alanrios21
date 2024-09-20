@@ -5,19 +5,21 @@
 <h1 align='center'>Sobre mi</h1> 
 
 <p align='justify'>
-¡Hola mi nombre es Alan! soy Desarrollador de Software, tengo +2 años de experiencia laboral, me destaco en las tecnologías: HTML, CSS, JavaScript, TypeScript, Angular, React.  
+¡Hola mi nombre es Alan! soy Desarrollador de Software, tengo +2 años de experiencia, me destaco en las tecnologías: HTML, CSS, JavaScript, TypeScript, Angular, React.  
 
 Cuento con conocimientos solidos en Node, Express, MongDB, SQL y .NET.
 
 Soy un profesional empático, creativo que ha incorporado habilidades como: Enfoque colaborativo, Liderazgo, Disciplina y comprometido constantemente con mi aprendizaje.
 
-🎯Mi objetivo es generar proyectos visualmente atractivos, que sean funcionales y que sean eficientes para el usuario.
+🎯 Mi objetivo es generar proyectos visualmente atractivos, que sean funcionales y que sean eficientes para el usuario.
 
-💬Mi mantra es la tecnología tiene que ser hecha desde lo funcional y la vanguardia.
+🚀 Estoy interesado en trabajar con proyectos que involucren comercio electrónico y productos que ofrecen servicios financieros.
+
+💬 Mi mantra es la tecnología tiene que ser hecha desde lo funcional y la vanguardia.
 
 Mi aporte en el Área de IT es: Crear proyectos que sean enfocados en las necesidades de cada usuario. Si deseas encontrar algún colaborador que sea versátil y comprometido no dudes en contactarme: 
 
-📧riosalan264@gmail.com 
+📧 riosalan264@gmail.com 
 
 Estoy emocionado por contribuir a cualquier proyecto, juntos podemos crear soluciones innovadoras.
 </p>
