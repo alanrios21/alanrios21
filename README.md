@@ -9,7 +9,7 @@
 
 Cuento con conocimientos solidos en Node, Express, MongDB, SQL y .NET.
 
-Soy un profesional empático, creativo que ha incorporado habilidades como: Enfoque colaborativo, Liderazgo, Disciplina y comprometido constantemente con mi aprendizaje.
+Soy un profesional empático, creativo que ha incorporado habilidades como: Enfoque colaborativo, Liderazgo, Disciplina y comprometido constantemente con mi trabajo.
 
 🎯 Mi objetivo es generar proyectos visualmente atractivos, que sean funcionales y que sean eficientes para el usuario.
 
