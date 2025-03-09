@@ -5,7 +5,7 @@
 <h1 align='center'>Sobre mi</h1> 
 
 <p align='justify'>
-¡Hola mi nombre es Alan! soy Desarrollador de Software, me destaco en las tecnologías: HTML, CSS, JavaScript, TypeScript, Angular, React, Next.  
+¡Hola mi nombre es Alan! soy Desarrollador de Software con +5 años de experiencia, me destaco en las tecnologías: HTML, CSS, JavaScript, TypeScript, React, Next y Angular. 
 
 Cuento con conocimientos solidos en Nest, Node, Express, MongDB, SQL.
 
